@@ -1,0 +1,26 @@
+{
+  "name": "superdupertest",
+  "version": "0.0.0",
+  "description": "supertest extended",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjmehta/superdupertest.git"
+  },
+  "keywords": [
+    "supertest",
+    "extended"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/superdupertest/issues"
+  },
+  "homepage": "https://github.com/tjmehta/superdupertest",
+  "dependencies": {
+    "supertest": "~0.9.0"
+  }
+}
